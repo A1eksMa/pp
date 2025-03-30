@@ -2,7 +2,7 @@ import pickle
 import shelve
 from pathlib import Path
 ###################################
-HOME = "/home/OMS-TN/mashkinas/"
+HOME = str(Path.home())
 NAME = "pp"
 
 WORKDIR = HOME + NAME + "/"
