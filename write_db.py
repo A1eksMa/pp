@@ -3,7 +3,7 @@
 
 # Import libraries and dependencies
 import sys
-sys.path.insert(0, "/home/OMS-TN/mashkinas/pp/app")
+sys.path.insert(0, "/home/pyuser/pp/app")
 from utils.paths import *
 
 import logging
